@@ -70,6 +70,3 @@ strarrOperators[0] = "OR";
 // select * from Student where name = “John Noor” or gpa = 1.5;
 Iterator resultSet = selectFromTable(arrSQLTerms , strarrOperators); 
 ```
-
-#### Disclaimer
-The commits/LOC do not reflect the contribution done by each member of this repo due to not using Github properly at that time. All the contributors and the collaborators in this repository worked together to deliver the final product.
